@@ -1,5 +1,7 @@
 # Convolutional-Neural-Network
-CNN for image classification in Matlab
+### Built the CNN
+
+### Used MINIST data set to test and train the network
 
 Start with several observations by control experiments. Notice that because the training time of neural network is long (on the scale of hours), the observations are based on a few scattered points and thereby some can be far from conclusive.
 
